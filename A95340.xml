@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truths discovery of a black cloud in the north: shewing some antiparliamentary, inhumane, cruell, and base proceedings of the Scotch army against the well-affected in the north of England. Set forth in severall letters from Northumberland, Bishoprrick: and Yorkshire: some whereof were signified to the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95340</idno>
+            <idno type="STC">Wing T3168</idno>
+            <idno type="STC">Thomason E346_9</idno>
+            <idno type="STC">ESTC R201004</idno>
+            <idno type="EEBO-CITATION">99861598</idno>
+            <idno type="PROQUEST">99861598</idno>
+            <idno type="VID">113736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E346[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truths discovery of a black cloud in the north: shewing some antiparliamentary, inhumane, cruell, and base proceedings of the Scotch army against the well-affected in the north of England. Set forth in severall letters from Northumberland, Bishoprrick: and Yorkshire: some whereof were signified to the Parliament.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "London 31 July 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Personal narratives.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="title_page">
+            <pb facs="tcp:113736:1"/>
+            <pb facs="tcp:113736:1" rendition="simple:additions"/>
+            <p>Truths Diſcovery OF A black Cloud in the North: SHEWING <hi>Some Antiparliamentary, inhumane, cru<g ref="char:EOLhyphen"/>ell, and baſe proceedings of the Scotch Ar<g ref="char:EOLhyphen"/>my againſt the well-affected in the North of England.</hi> Set forth in ſeverall letters from Northumberland, Biſhoprrick: and Yorkſhire: ſome whereof were ſignified to the Parliament.</p>
+            <q>
+               <bibl>ISAIAH <hi>33.1.</hi>
+               </bibl> Woe to thee that ſpoyleſt, and thou not ſpoyled; and dealeſt treacherouſly, and men dealt not treacherouſly with thee. When thou ſhalt ceaſe to ſpoyle thou ſhalt be ſpoyled. When thou ſhalt make an end to deale treacherouſly, they ſhall deale treacherouſly with thee.</q>
+            <q>
+               <bibl>ISA. <hi>58.4.</hi>
+               </bibl> Behold, ye faſt for ſtrife and debate, and to ſmite with the fiſt of wic<g ref="char:EOLhyphen"/>kedneſſe.</q>
+         </div>
+         <div type="publisher_to_the_reader">
+            <head>The Publiſhers to the Readers.</head>
+            <opener>
+               <salute>To all that ſtand for Truth &amp; Peace, Truth and Peace be multiplied.</salute>
+            </opener>
+            <p>FRiends and Countrey-men, Though you are the friends of truth, yet (it may be) you are ignorant of truths diſcovery of this black cloud in the North. But behold, here we preſent it unto your view, as a thing worthy of your diligent peruſall, and ſerious conſideration. And though it bee a ſmall foreſhortned
+<pb n="2" facs="tcp:113736:2"/>piece, yet herein is diſcovered the evill dealing of thoſe who pretend themſelves to be the friends of truth, but are not ſo in deed and in truth, for if they had intended as they pretended, ſure they would not have ſhewed themſelves as they now appeare to be, even deceit<g ref="char:EOLhyphen"/>full, falſehearred, covetous plunderers and oppreſſors, tormentors and deſtroyers of the Countries, If they were, as they would by us for the preſent, be accounted to be, then they would not ſo entertain the Papiſticall and Prelaticall Snakes in their boſomes, hold ſecret conſultation with ſuch enemies of God, breathe out threatnings againſt the good, protect, encourage, and uphold the bad, nor pre<g ref="char:EOLhyphen"/>ſerve and reſerve them, to act their miſchievous purpoſes. If theſe men were indeed as they ought to be, then would they not make their ſolemn League &amp; Covenant to be as the Serpents taile is, to turne which way their minde is bent, to wrap in rapes, murthers, robberies, perſecutions, and what they pleaſe; as if the Scots will, muſt bee a Law, to force the free-born ſubjects of <hi>England,</hi> contrary to their Fundamentall Lawes. O thou virgin-daughter of <hi>Iſrael</hi> in <hi>England,</hi> ſtirre up thy ſtrength, mount on high with thy Eagles wings of di<g ref="char:EOLhyphen"/>vine protection, and though theſe thine enemies have gathered the corrupt and putrified waters, from divers places, to make up one Sea to ſpue out at once upon thee, to ſwallow thee up alive on a ſud<g ref="char:EOLhyphen"/>den; they ſhall not be able to prevaile againſt thee, though hell gates be on their ſide, and hand joyn in hand, they ſhall not goe unpu<g ref="char:EOLhyphen"/>niſhed.</p>
+            <p>Conſider one thing more, which is, that the Papiſts, Prelats, and Antichriſtian Presbyters, are now linked all in one chain, and doing one work, even oppoſing the heavenly powers, and theſe three are like, (if not the very ſame) with thoſe three unclean Spirits like Frogges, which came out of the mouth of the Dragon, and out of the mouth of the Beaſt, and out of the mouth of the falſe Prophet, <hi>Revel.</hi> 16.13. Such Spirits of Divels which delude ſinfull men with their falſe miracles, are the prime fomenters and raiſers of bloody warres and ſedition, under the pretence of Religion and Reformation.</p>
+         </div>
+         <div type="account">
+            <pb n="3" facs="tcp:113736:2"/>
+            <head>
+               <hi>The information of Thomas Hanmer, June the</hi> 12. 1646. <hi>At the Committee for the Army, and after reported to the houſe of Commons.</hi>
+            </head>
+            <p>Having ſome cauſe to believe, the latter end of <hi>March</hi> laſt, that there was a private treaty betweene the <hi>King</hi> and the <hi>Scots,</hi> and that the <hi>King</hi> was upon a reſolution to go into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> or to the <hi>Scotch</hi> Army, and that this treaty was m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iged by the intervention of <hi>Montrevill</hi> the <hi>French</hi> Agent, and deſign<g ref="char:EOLhyphen"/>ed in <hi>France,</hi> I conceived this Councel and intention of the <hi>Kings</hi> not onely infinitely prejudiciall to himſelfe and this King<g ref="char:EOLhyphen"/>dome, but diſhonourable to the <hi>Engliſh</hi> Nation, in diſcerting them, and thereby rendring their ſinclity more ſuſpected then the <hi>Scots,</hi> and thought it my duty both as an <hi>Engliſh</hi> man, and as his Majeſties ſervant, to diſcover my knowledge thereof in ſeaſon, to ſuch as I thought might poſſibly prevent the miſ<g ref="char:EOLhyphen"/>chiefes which I feare would attend the deſigne, I therefore ac<g ref="char:EOLhyphen"/>quainted ſome of the Committee of both Kingdomes with what followes, according to the times hereafter mentioned.</p>
+            <p>The 4. of Aprill; That one of the Scots Commiſſioners told me, that he believed and would lay a waiger that the King would be in <hi>London</hi> or in the Scoch Army very ſpeedily, perhaps before Wedneſday night next, if he could paſſe, and that if he came to the Scots, they would receive him, and entertaine him civilly, and ſtand to him in his rights.</p>
+            <p>Another Scottiſh Gentleman, being a brother in law of the ſaid Commiſſioner, told me the ſame evening, that the ſaid Com<g ref="char:EOLhyphen"/>miſſioner had in great ſecreſy, aſſuer'd him, that the King would be very ſodainly with the Scots, and that a meſſenger was ſent to the King the night before, from a party here, to adviſe him what to do, and that <hi>Newarke</hi> would be very ſpeedily ſurren<g ref="char:EOLhyphen"/>dred.</p>
+            <p>10. of Aprill, the ſaid Commiſſioner told me that the King would endeavour to get to their Army before <hi>Newarke,</hi> and if he came ſafe thither would ſend to the Parliament, to offer to paſſe the Propoſitions of <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> and there upon if the Par<g ref="char:EOLhyphen"/>liament refuſed a peace, he doubted not but 2. parts of 3. in <hi>England,</hi> would be for the King, and he was ſure that the whole Kingdome of <hi>Scotland</hi> would be as one man for him: for then there would be no <hi>Montroſſes.</hi>
+            </p>
+            <pb n="4" facs="tcp:113736:3"/>
+            <p>29. of Aprill, Being the faſt day, the ſaid Commiſſioner and his brother in law called at my lodging, and the Commiſſioner with great joy told me the newes of the Kings getting ſafe out of <hi>Oxford,</hi> and that ſome of the Scottiſh horſe before <hi>Newarke</hi> would advance to meete him, to bring him to the Parliament here, which he ſaid ſmiling. I then asked whither <hi>Leſly</hi> would receive him? and his brother anſwered that my Lord <hi>Lauderdall</hi> had gone downe to take order for that.</p>
+            <p>The 4. of May, the ſaid Commiſſioners brother told me that they did not yet heare where the King was, but perhaps he would go to <hi>Scotand</hi> firſt (and not to the Army) that he might firſt disband <hi>Montroſſe</hi> and ſettle that Kingdome, that the Scots would keepe all faire correſpondency with the Parliament, un<g ref="char:EOLhyphen"/>till they had ſatisfied the people with their papers and declara<g ref="char:EOLhyphen"/>tions: that they expected 5000. more out of <hi>Scotland,</hi> and that if they came to a breach with the parliament they could (with the forces they would draw out of <hi>Ireland</hi> and <hi>Scotland</hi>) make an Army of 6000. and 26000. Foote, and ſhould be aſſiſted out of <hi>France,</hi> with 3000. Horſe, and 10000. Foote; And Horſe were excepted out of <hi>Denmarke,</hi> And the <hi>Sweed</hi> would certainly aide them, And they doubted not of a great party in <hi>England.</hi>
+            </p>
+            <p>The 7. of May, he confirmed this aſſurance of forraign Suc<g ref="char:EOLhyphen"/>cors, and ſaid that <hi>Newarke</hi> would be offered to the Scots, but it ſhould be delivered to the Parliament to carry all appearance of fairneſſe, and then the Scots Army would immediately re<g ref="char:EOLhyphen"/>treate to <hi>Newcaſtle,</hi> &amp; that the King would ſuddenly ſend letters to the Parliament here, &amp; to the City of <hi>London,</hi> to offer peace up<g ref="char:EOLhyphen"/>on the propoſitions of <hi>
+                  <g ref="char:V">Ʋ</g>xbridge;</hi> the ſame night the ſaid Com<g ref="char:EOLhyphen"/>miſſiondrs told me, the City of <hi>London</hi> would be for them, and that the King would ſend letters to the Parliament and City to the aforeſaid purpoſe.</p>
+            <p>The Saturday morning before the Kings laſt letters were deli<g ref="char:EOLhyphen"/>vered to the Parliament, the Commiſſioners ſaid brother in law, informed me of the tennour thereof, and that my Lord <hi>Balcar<g ref="char:EOLhyphen"/>risd</hi> had brought copies of them to ſhew before hand to their friends heere, and that the Meſſenger ſtayed by the way with the letters, and ſhould not come with them to the houſe till they had conſulted heere, and agreed upon the fitteſt time for the de<g ref="char:EOLhyphen"/>livery of them.</p>
+            <pb n="5" facs="tcp:113736:3"/>
+            <p>I underſtood alſo out of <hi>France,</hi> before the Kings going from <hi>Oxford,</hi> that they expected daly to heare of the Kings ſafe arri<g ref="char:EOLhyphen"/>vall in the North, and was informed that <hi>Montrevill</hi> the <hi>French</hi> Agent had treated the buſineſſe betwixt the <hi>King</hi> and the <hi>Scots,</hi> and when he had concluded on all things with the <hi>King,</hi> he went before to <hi>Leſlys</hi> Army to take order for his reception there, and that the King had the honour and faith of the Scots engaged to him, to ſtick to him in the buſineſſe of the <hi>Militia,</hi> and to be uſed well in all things, if he would comply with them in the Church Government, which they muſt in honour ſtand for,: and that the <hi>Queene Regent</hi> of <hi>France,</hi> and the <hi>Queene</hi> of <hi>England</hi> had agreed to the deſigne of the <hi>Kings</hi> going to the <hi>Scots:</hi> who labour now to have the <hi>Prince</hi> there alſo: I meane the <hi>Scots</hi> labour, his highneſſe coming to <hi>Scotland.</hi>
+            </p>
+            <closer>
+               <signed>THO: HANMER.</signed>
+            </closer>
+            <postscript>
+               <p>This (being thus ſubſcribed) was after by the ſaid Gentleman <hi>Thomas Hanmer</hi> (being called into the barr) own'd and avou'd is that he would ſtand too.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A letter from ſundry of the Committee of <hi>Yorke</hi> to the Com<g ref="char:EOLhyphen"/>mittee of the Lords and Commons.</head>
+            <p>Although we are a moſt aſhamed ſtill to trouble you with the ſad ſtory of the condition of that part, and this poore County which lies groaning (and now ready to expire) under the bur<g ref="char:EOLhyphen"/>then of Scottiſh horſe, being very confident that if ſomthing of a more generall concernment had not intervened you would ere this have provided and applyed ſuch a plaiſter, as might have either cured or caſed our fore, yet we muſt crave leave to put you in minde, that if reliefe come not preſently, it will be too late to thinke upon us, when we are periſhed, and the whole Kingdome indangered in our ruine, for we are brought to ſo low an ebb that a very few dayes wil now ſerve to ſtop our breath, and quit you of our further Clamour, and it cannot be expected but that nature will make ſome reluctancy in its diſſo<g ref="char:EOLhyphen"/>lution, our feare is, that extreamity of miſery will produce diſ<g ref="char:EOLhyphen"/>paire, and that men will not be able with patience to ſee their wives and children dye for want of bread, before their faces, which unevitably they muſt do if not ſpeedily prevented, Sir, ſome of us have ſeene the ſufferings, and all of us the teares of
+<pb n="6" facs="tcp:113736:4"/>the Cuntry, which are ſuch as we cannot expreſſe, nor expect you can conceive them to be ſo great, and many as they are; beſides their extraordinary loſſes, and charges, their ordinary eſſeſments where the Scottiſh forces are quartered, are levied and payed after the rate of about 140000. l. a month upon the whole County which is 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> times ſo much as they ought to levy by the Ordnance of Parliament of the aſſociati<g ref="char:EOLhyphen"/>on, a burden, by continuance growne ſo inſupportable, as that the Country, redacted to this weakneſſe is not able to undergo it, and when they can pay no longer, we do not know (but may well feare) what will enſue; Whereas we underſtand that you were informed that <hi>Vanderhurſts</hi> Regiment was reduced: it is true, they were lately reduced forth of <hi>Cleaveland,</hi> into <hi>Rich<g ref="char:EOLhyphen"/>mondſhire,</hi> where the moſt of them are diſperſed among other Regiments, and ſo we feare it may prove a greater plague to the Country then before, they being for the moſt part Engliſh Ca<g ref="char:EOLhyphen"/>viliers, and diſorderly beyond beliefe; Yeſterday a Major of Sir <hi>Iohn Brownes</hi> Regiment, came to us, with a meſſage from his Coll. out of <hi>Cleaveland,</hi> that they deſire inlargment of Quarters, which we not being able to grant, he returned diſpleaſed. Thus having given you this account, and implored your ſpeedy care of our fainting condition, and of the danger to the publike which is imminent, we conceive we diſcharge our duties, and hope we ſhall be free from the blame of what we feare may unhappily fall out, if not timely prevented, by takeing ſuch ſpee<g ref="char:EOLhyphen"/>dy courſe for the removall of the Scottiſh horſe out of this poore waſted County, as to your wiſedomes may ſeem fit, which is the cry of the dying people, and requeſt of</p>
+            <closer>
+               <dateline>
+                  <hi>Yorke,</hi> 
+                  <date>
+                     <hi>Iune the</hi> 26. 1646.</date>
+               </dateline>
+               <signed>
+                  <hi>Your moſt humble ſervants. </hi>
+                  <list>
+                     <item>
+                        <hi>Io: Bourchier, vic. Com:</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Darly,</hi>
+                     </item>
+                     <item>
+                        <hi>Ro. Barwicke,</hi>
+                     </item>
+                     <item>
+                        <hi>Darcy Wentworth,</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Robinſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Farrer,</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Waſtall,</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Ingilby,</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. St. Nicholas.</hi>
+                     </item>
+                     <item>
+                        <hi>Ra. Rymore.</hi>
+                     </item>
+                     <item>
+                        <hi>Bar. Bourchier.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:113736:4"/>
+            <head>
+               <hi>Here followeth the Copy of a Letter, ſent from a Gentleman of good Worth in</hi> Yorke, <hi>touching the</hi> Scots <hi>proceedings in</hi> England, <hi>being worth our obſervation.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving ſeene and peruſed ſome Papers preſented to the Parlia<g ref="char:EOLhyphen"/>ment by the <hi>Committee of Scotland</hi> concerning their intentions, I was deſirous to ſatisfie my ſelfe by the beſt grounds and knowledge I could of the reallity thereof, and their performances accordingly, ha<g ref="char:EOLhyphen"/>ving heard much talke, that no <hi>Papiſts</hi> nor <hi>Cavaleers</hi> were admitted to the <hi>King</hi> ſince his comming into the Army. I found that obſerved as it was when the King ſet forth his Oathes to Men and Vowes to God, <hi>That no Papiſt ſhould come to his Court, nor into his Army;</hi> for at his being at <hi>Doncaſter</hi> the Gentlemen principally, that kept him company there, were, Sir <hi>James Laſhly,</hi> a Papiſt, and a Cavaleere; Colonell <hi>Aſhburnham,</hi> and Mr. <hi>Hudſon,</hi> and to colour the ſurrender of theſe Gentlemen to the Parliament, they had a Meſſage brought from London poſt, by Colonell <hi>Stockdall</hi> to <hi>Sherburne,</hi> of the approach of 5000. Horſe of Sir <hi>Thomas Fairefax</hi> his Army, which occaſioned a ſuddaine march away with the King and a Guard to be kept againſt <hi>Yorke,</hi> who at his comming to <hi>Durham</hi> had no ſmall number of Ca<g ref="char:EOLhyphen"/>valiers to welcome him thither, whoſe words, and geſtures, did ſo terrifie the well affected (conſidering the acceſſe they had to kiſſe the Kings hand, and make knowne their conditions and complaints vnto him) that it made many well affected to the Parliament to re<g ref="char:EOLhyphen"/>tire to places of ſecurity, fearing then that, which ſubtilty and time will without queſtion produce.</p>
+            <p>At his comming to <hi>Newcaſtle,</hi> further to colour their deſigne they
+<pb n="8" facs="tcp:113736:5"/>ſet a Citizen to guard every poſt, that no Engliſh-man ſhould come into that Towne without knowledge what he was, where (by ex<g ref="char:EOLhyphen"/>perience) I know the free egreſſe and regreſſe the Cavaliers have had into the Towne and to his Majeſtie, namely Sir <hi>Hugh Carth-Wright,</hi> Sir <hi>James Laſhly,</hi> Lievtenant Colonell <hi>Carr,</hi> with many more which I could name, the laſt of which named (its ſaid) hath gone eight ſeverall times betwixt the <hi>King</hi> and <hi>Montroſſe</hi> [but for certaine betwixt the King and <hi>Montroſſe</hi> he did goe and carryed the Meſſage for him to ceaſe Hoſtility,] and ſince that, Sir <hi>Iacob Laſhly,</hi> carried the Meſſage likewiſe for the Earle of <hi>Antrim</hi> to ceaſe Hoſti<g ref="char:EOLhyphen"/>lity, beſides the Meſſengers the King hath ſent both from <hi>Newcaſtle</hi> and <hi>Sunderland</hi> to the Queene in <hi>France,</hi> and the Meſſengers come to him from beyond Sea, and the retinue of Cavaliers about him, Ser<g ref="char:EOLhyphen"/>vants, attendants now to his Perſon, which (when conſidered) puts me in mind of a paper from the Commiſſioners, dated the 25. of May, 1646. Wherein the Lords of the Committee at <hi>Newcaſtle</hi> declare, that directly, nor indirectly, they had no hand in Mr. <hi>Aſhburnhams</hi> eſcape (which is as true, as they knew not of any intentions of the Kings comming to their Army before he came amongſt them, not<g ref="char:EOLhyphen"/>withſtanding Maſter <hi>Hudſon</hi> told Mr. <hi>Bribeck</hi> of the County of Dur<g ref="char:EOLhyphen"/>ham, that he had gone foure times betwixt the King and them, and that it was concluded on, before he came from <hi>Oxford</hi>) when the day before, <hi>Aſhburnham</hi> was declared to be wanting: A Lord of that Kingdome went forth of <hi>Newcaſtle</hi> with him, and <hi>Aſhburnham</hi> came not into <hi>Newcaſtle</hi> againe. After his Lordſhips ſervants parted with him, which occaſions reſemble a ſpeech lately made by the Earle of <hi>Argile,</hi> wherein he mentions a Declaration to be ſet forth, of the good affection and intention of that Army, which makes me won<g ref="char:EOLhyphen"/>der with what face any man of that Nation dares expreſſe ſo much as is already in many Bookes, when it is very well knowne to all impar<g ref="char:EOLhyphen"/>tially affected that knowes them, that the generallity of Officers and Souldiers in that Army, doe expreſſe themſelves in oppoſition and diſlike of the Parliament's proceedings, banning with many Oathes, that they will fight for the King againſt the Parliament of England, alledging, that the Parliament hath diſhonourably abuſed the King, the truth whereof If it were required I could make appeare by 100. teſtimonies on both ſides.</p>
+            <p>And if their intentions were for Peace, and a reſolution to goe home
+<pb n="9" facs="tcp:113736:5"/>and to be ſatisfyed with their pay, conſidering the words of their a<g ref="char:EOLhyphen"/>greement with our Commiſſioners at <hi>Edenborough</hi> the 29. of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 1643. following (it not amounting to the full moneths pay ſhall be monethly allowed and payd the ſum of 30000. pound ſtar<g ref="char:EOLhyphen"/>ling by the Parliament of <hi>England,</hi> and in caſe that notwithſtanding, the ſaid monethly ſum of thirty thouſand pound payd as aforeſayd, the States and Kingdome of <hi>Scotland</hi> ſhall have juſt cauſe demand further ſatisfaction of their Brethren of <hi>England;</hi> when the Peace of both Kingdomes is ſetled, for the paynes, hazard, and charges they have vndergone in the ſame) If that would ſatisfie them, then what meanes the increaſe of their Army ſince the Kings going Northwards? their bringing 3000. men into this Kingdome, many of which to my knowledge never were in <hi>England</hi> before, though they bring them under a notion of Old Souldiers run from their Colours, What meanes their bringing 5. Companies out of <hi>Scotland</hi> of the Earle of <hi>Calenders</hi> Regiment that was ſent thither formerly, and now recru<g ref="char:EOLhyphen"/>ted to 500. men, and put into <hi>Hartlepoole</hi> Garriſon? (What meanes then bringing 160. men (moſt new raiſed) for the Recruit of the Garriſon of <hi>Tinmonth,</hi> and the Lievtenant Colonell of that place, when he ſhall dare to ſay he keepes the Caſtle for the King, and will keepe it for the King againſt the Parliament? What meanes the for<g ref="char:EOLhyphen"/>tifying of that place [for 12. moneths paſt to this preſent day] ſo ſtrong? and the fortifying of <hi>Barwick</hi> 3. times] ſtronger then it was? what meanes their now raiſing every ſixt man fit for ſer<g ref="char:EOLhyphen"/>vice [which will be 10000. men at the leaſt] in <hi>Scotland?</hi> Is it thinke you to war againſt <hi>Montroſſe?</hi> who themſelves report to be of no ſtrength, notwithſtanding their numbers to oppoſe him, under the Command of Lievt. Gen. <hi>Middleton,</hi> are 4000. horſe, And 8. Regiments of foote, under the Earle of <hi>Argile,</hi> and thoſe under him in the Weſt parts about 2000. horſe, and 3000. foote, Beſides an order from the States of <hi>Scotland</hi> 3. moneths agoe for Major Gen. <hi>Monro</hi> to bring 2500. of his 4000. mer out of <hi>Ireland.</hi> Vpon the refuſuall of that Command, ano<g ref="char:EOLhyphen"/>ther ſent after from the States and Generall, though in the Inte<g ref="char:EOLhyphen"/>rim he is defented, notwithſtanding all the gallantry and wants the Earle of <hi>Argile</hi> ſeemes to declare of them, they never fought on field againſt the Rebels from their firſt going over to this time they were routed, but have driven many <hi>Engliſh</hi> men
+<pb n="10" facs="tcp:113736:6"/>from their Habitations. And not withſtanding all their reports that the Earle of <hi>Montroſſe</hi> was to bee degraded, to bee banniſhed, that hee was weake, ſomtimes rowted, and had no Army. Can any man be ſo ſenſeleſſe as believe thoſe reports? when [of 6. battls ſome of themſelves have confeſſed be hath gotten 5. victories] how could he come to <hi>Abirdeene</hi> into the heart of that Kingdome, and burne <hi>Aberdeene,</hi> deſtroy 3. of their beſt Regiments? conſider beſides the 4000. men he had which were not in the battle when he was routed by <hi>David Leſly,</hi> the ſtrength he hath raiſed, and ſupplyes he hath had, ſince that time; ſure the Earle of <hi>Antrius</hi> would not bring over 2000. men our of <hi>Ireland</hi> to aſſiſt him, if he wore nothing, neither would 500. Lords, Collonels, Knights, and Gentlemen, Engliſh Caviliers, reſort to him, and reſide with him if they had not ſome hopes.</p>
+            <p>I profeſſe Sir, the Myſterie of all this is difficult, when I con<g ref="char:EOLhyphen"/>ſider the fruitfulneſſe of that land to raiſe, ſend for, and ſupport, ſuch vaſt, now, Armies; when they have a ſufficient one in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that may be very wel ſpared to their aſſiſtance and yet ſhall bring new raiſed men to be (as themſelves ſay) at his Mai. Com<g ref="char:EOLhyphen"/>mand in <hi>England,</hi> where theres no need of them; but that which will undoubtedly reſolve both you and me in this parti<g ref="char:EOLhyphen"/>cular wil be its conjunction, (there being already a ceſſation be<g ref="char:EOLhyphen"/>twixt <hi>Montroſſe</hi> &amp; them both) which will be a force ſufficient to make good the <hi>Covenant</hi> according to their Conſtruction which they put upon it, and if that will not ſerve they have already promiſed Commiſſions to divers Caviliers in the North, to raiſe men and ſhall have the aſſiſtance of Gen. <hi>King,</hi> with 9 Ships, loden with men and Ammunition from <hi>Hambrough</hi> [as letters come in at <hi>Newcaſtle</hi> reports,] beſides a relation made by Mr. <hi>Lanſon</hi> a <hi>Merchant</hi> of <hi>Newcaſtle</hi> who ſee Gen. <hi>King</hi> at <hi>Ham<g ref="char:EOLhyphen"/>brough</hi> and ſome of thoſe Ships laden there ready with an intent to come for the <hi>North.</hi>
+            </p>
+            <p>Obſerve in all their declarations and vowes how intentive they are to maintaine the Covenant, which we finde interpre<g ref="char:EOLhyphen"/>ted in ſuch like minner as is contained in their papers the 11. of Aprill 1646. by which and the like interpretations and con<g ref="char:EOLhyphen"/>ſtructions, they will, as they do, be poſſeſſors of the whole eſtates
+<pb n="11" facs="tcp:113736:6"/>of the well affected in the Northerne parts, otherwayes what meanes thoſe vaſt ſeſments demanded of the Northern Counties as in many places the charge demanded by them, is more in 3. moneths then the revenew of the places is worth in 12. months, having demanded of the County of <hi>Durham</hi> 5000. l. a moneth for their infantrie, beſides all their women, Children, and bag<g ref="char:EOLhyphen"/>gage horſes, which charge will be neere as much more, what meanes their many threates and banniſhments of the well af<g ref="char:EOLhyphen"/>fected, of the County of <hi>Durham,</hi> and this County, their pro<g ref="char:EOLhyphen"/>tecting papiſts, and delinquents, where I could name many in both places, but for feare of a farther evill to them; however it hath been proved of ſome at the <hi>Northern</hi> Committee of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>Oh friend, were ye but ſenſible of our miſeries, it would make your heart to bleed, to know the rapes, murthers, ro<g ref="char:EOLhyphen"/>beries, oppreſſions, and abuſes which is and hath been acted on the well affected in theſe parts, and upon complaint very, ſmall redreſſe, as the <hi>Commiſſioners</hi> of <hi>Lords</hi> and <hi>Comment</hi> in <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> can teſtefie concerning <hi>Tickell,</hi> where though ſome were impriſoned before them, yet never puniſhed after their depar<g ref="char:EOLhyphen"/>ture; and yet notwithſtanding all theſe things what meanes is there uſed or rather not uſed to render them with a faire Cha<g ref="char:EOLhyphen"/>racter to the Parliament; have not they their Agents both at home and abroade? I have ſeene their letter of complaint againſt Gen. <hi>Payntz.</hi> from <hi>David Leſley</hi> notwithſtanding thoſe two, are as gracious as is poſſible, and have had ſeverall meetings lately at <hi>Bedall</hi> one of which was 2. dayes before Gen. <hi>Poyntz</hi> took Journey for <hi>London</hi> &amp;, ſome officers in that Army have de<g ref="char:EOLhyphen"/>clared a gallant opinion of Gen. <hi>Payntz,</hi> by reaſon he hath ex<g ref="char:EOLhyphen"/>preſſed to them a diſlike of the Parliaments proceedings; have they not an Agent at <hi>Durham,</hi> Col. <hi>Chidwick</hi> who hath layne there certaine weeks acting his great ability to render that Go<g ref="char:EOLhyphen"/>vernment with a faire Caracter, as on the contrary he hath not been wanting in his letters from <hi>Nettingham</hi> to Mr. <hi>Pierpoint</hi> at <hi>Yorke,</hi> in the time of the reduſement there, to be Carefull to out all <hi>Independents</hi> out of that Army, which hath been accor<g ref="char:EOLhyphen"/>dingly performed: &amp; their Commands given to Caviliers, one of which was firſt a Cavilier, then came &amp; took the Covenant: went
+<pb n="12" facs="tcp:113736:7"/>againe, and tooke Command, and fought againſt the Parliament, and came and ſerved under the Parliament againe, was C<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>red for ſuch his fact: and now is in Commiſſion in the new Modall, much like were thoſe wiſe Officers, that when the caſe was Judged at a Court Martiall at <hi>York</hi> betwixt Commiſſary Gen. Wood, and his deputy <hi>Bradford;</hi> Wood complayning of others falſe muſtering, his threats, and twice ſwearing God dam him gave judgement that they were civill Officers and not within the cogniſence of that Court Martiall. Have not the Scots their Agents, the Prieſts of the County of <hi>Durham,</hi> with many more to whom they have given protections to pay no ſeſments, not billet ſoldiers? which without queſtion will not be wanting in gratifying that Army with a Character of honour, ſo far as in them lyeth, Sir having impartially conſidered all theſe paſſages and carriages, the beſt conſtruction that (in my apprehenſion) can be made is, that if upon the expoſition of the Covenant there continue a difference betwixt the Parliament and them, they have an Army ready to defend or offend as occaſion requires, I reſt.</p>
+            <closer>
+               <dateline>
+                  <hi>Yorke</hi> 
+                  <date>1. <hi>Iuly</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>The Information of Captaine Henry Stone.</head>
+            <p>I Having ſome private diſcourſe with Sir <hi>Thomas Tidſley,</hi> a<g ref="char:EOLhyphen"/>bout a week before the ſurrender of the Gariſon, he told me he had an order from the King, that when he heard <hi>Oxford,</hi> was ſurrendred, he ſhould make his conditions for the ſurrender of the Cloſe, and reſerve his forces in their ſeverall Counties, as privately as might be, till there were an opportunity.</p>
+            <p>He further ſaid, that the parliament ſhould have all the Gari<g ref="char:EOLhyphen"/>ſons, but when we thought all was our own, we ſhould ſee a force which would cut our throates, and this would be done before the next Spring.</p>
+            <p>He alſo ſaid, the King he thought would come to <hi>London,</hi> and ſpeake you faire, and ſeem to comply, but he will not lie downe ſo, but take his advantage when time ſerves, and ſo would he and many more.</p>
+            <p>Theſe words, or to this effect, being delivered to me, I thought it my duty to declare it.</p>
+            <closer>
+               <dateline>
+                  <hi>Iuly</hi> 
+                  <date>19. 1646.</date>
+               </dateline>
+               <signed>Henry Stone</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113736:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
